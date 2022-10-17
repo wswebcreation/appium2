@@ -83,7 +83,7 @@ closing code: 0⠂⠂⠂⠂) ⠦ : timing config:load:flatten Completed in 5ms
 If everything went well you can run the server with `appium2 server` and you should see the following logs
 
 ```logs 
- ######################################################################
+######################################################################
 # Appium2 will be started with the following command line arguments: #
 # server
 ######################################################################
