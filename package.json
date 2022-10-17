@@ -1,0 +1,18 @@
+{
+  "name": "appium-1-and-appium2-globally-installed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "appium2": "node ./appium2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "appium": "^2.0.0-beta.45",
+    "appium-flutter-driver": "^1.7.2",
+    "appium-uiautomator2-driver": "^2.8.0",
+    "appium-xcuitest-driver": "^4.12.1"
+  }
+}
