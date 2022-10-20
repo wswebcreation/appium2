@@ -20,8 +20,8 @@ as global commands and by following the steps below you can do that.
 > This document only works for a Mac. If you are on Windows/Linux, you will need to modify the commands to work for your OS. A PR for the docs is always welcome :bowtie:
 
 ## Installation of this project
-1. Clone this project with `git clone https://github.com/wswebcreation/appium-1-and-appium2-globally-installed.git`
-2. Go to the project folder with `cd appium-1-and-appium2-globally-installed`
+1. Clone this project with `git clone https://github.com/wswebcreation/appium2.git`
+2. Go to the project folder with `cd appium2`
 3. Install the project with `npm install`
 4. Get the full path to the project folder with `pwd` and copy this path
 5. Open your `.bash_profile` with `open ~/.bash_profile`, or if you are using zsh, open your `.zshrc` with `open ~/.zshrc`
