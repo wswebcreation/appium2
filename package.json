@@ -10,10 +10,10 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "appium": "^2.0.0-beta.58",
-    "appium-espresso-driver": "^2.20.0",
-    "appium-flutter-driver": "^1.14.3",
-    "appium-uiautomator2-driver": "^2.12.7",
-    "appium-xcuitest-driver": "^4.21.3"
+    "appium": "^2.0.0-beta.71",
+    "appium-espresso-driver": "^2.23.2",
+    "appium-flutter-driver": "^1.14.4",
+    "appium-uiautomator2-driver": "^2.26.1",
+    "appium-xcuitest-driver": "^4.32.0"
   }
 }
